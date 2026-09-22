@@ -50,9 +50,3 @@ Conferências da versão anterior são invalidadas na migração, pois não cont
 
 20 testes automatizados das regras aprovados: centavos, datas impossíveis, obrigatoriedade, duplicidades, conferência sem evidência, alterações posteriores, baixa fictícia, CSV com aspas/quebras, limite de lote, estrutura do armazenamento e neutralização de fórmulas.
 Sintaxe JavaScript verificada. Abertura da fila e do formulário de conferência inspecionada no navegador local. Isso não equivale a homologação de produção ou auditoria de segurança.
-
-## Apresentação
-
-Use **Testar lote de exemplo** para experimentar três cenários sem arquivo externo. Consulte PUBLICACAO_LINKEDIN.md para texto e roteiro e PUBLICAR_GITHUB.md para uma publicação independente. O site usa somente arquivos estáticos, sem envio das solicitações a um servidor pela aplicação.
-
-Mudanças entre abas são detectadas e a exportação é bloqueada até recarregar; isso não substitui controle transacional. Use uma única aba para a demonstração.
